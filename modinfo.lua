@@ -27,13 +27,13 @@ directory. If not, please refer to
 -- DST 2189004162
 -- loadstring is present
 local IsDST = folder_name ~= nil -- present in DST, not DS. big brain engaged
-name = "Insight"
-version = "3.0.12" -- ds is 2.9.7_ds
+name = "rtrind-Insight"
+version = "3.0.12-rtrind" -- ds is 2.9.7_ds
 author = "penguin0616"
 forumthread = ""
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
-id = "Insight"
+id = "rtrind-Insight"
 priority = -10000 --[[ rezecib's Geometric Placement has -10, chinese++, has -9999. assuming the rest of the chinese translation mods use a similar enough priority.
 ideally, we come last in the mod loading order to make life easier. 
 that way, I can try to be compatible with other mods without them having to worry about compatibility with Insight. after all, probably better if I handle it.
