@@ -82,12 +82,12 @@ local english = {
 
 	-- description
 	ds_not_enabled = "Mod must be enabled for functioning modinfo",
-	update_info = "Klaus sack loot information (press alt), mod compatibility fixes, efficiency and use modifiers for Wes, fishing configuration, chinese translations, item lookup supports modded items.",
-	update_info_ds = "performance increase, bug fixes",
-	crashreporter_info = "**Crash reporter added**, you should enable it in the client & server config",
+	update_info = "Versão para o server do Hermi!",
+	update_info_ds = "",
+	crashreporter_info = "",
 
 	mod_explanation = "Basically Show Me but with more features.",
-	config_paths = "Server Configuration: Main Menu -> Host Game -> Mods -> Server Mods -> Insight -> Configure Mod\n-------------------------\nClient Configuration: Main Menu -> Mods -> Server Mods -> Insight -> Configure Mod",
+	config_paths = "Server Configuration: Main Menu -> Host Game -> Mods -> Server Mods -> rtrind-Insight -> Configure Mod\n-------------------------\nClient Configuration: Main Menu -> Mods -> Server Mods -> rtrind-Insight -> Configure Mod",
 
 	config_disclaimer = "Make sure to check out the configuration options.",
 	version = "Version",
