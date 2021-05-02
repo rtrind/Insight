@@ -28,7 +28,7 @@ directory. If not, please refer to
 -- loadstring is present
 local IsDST = folder_name ~= nil -- present in DST, not DS. big brain engaged
 name = "rtrind-Insight"
-version = "3.0.12-rtrind_v2" -- ds is 2.9.7_ds
+version = "3.0.12-rtrind_v3" -- ds is 2.9.7_ds
 author = "penguin0616"
 forumthread = ""
 icon_atlas = "modicon.xml"
